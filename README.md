@@ -10,5 +10,5 @@
 ```
 git clone https://github.com/sxx1314/pve-kernel
 cd pve-kernel
-dpkg -i *
+dpkg -i *.deb
 ```
