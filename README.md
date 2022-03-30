@@ -8,7 +8,7 @@
 - 添加ppp拨号组件
 - 添加i225等驱动
 - 开启了 io_uring+zerocopy支持
-- 开启了NFT_FLOW_OFFLOAD 支持
+- 开启了FLOW_OFFLOAD 支持
 
 ## INSTALL
 ```
