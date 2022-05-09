@@ -4,7 +4,11 @@
 ### edge:kernel 5.17.6
 ## 自用pve-kernel 
 - 修复了 NAT1 / FULLCONE-NAT 在 5.15/5.17 kernel上失效问题。  原项目：[@Chion82](https://github.com/Chion82/netfilter-full-cone-nat)
+<<<<<<< HEAD
 - linux kernel version :5.15/5.17  感谢：[@ubuntu-jammy](https://code.launchpad.net/~ubuntu-kernel/ubuntu/+source/linux/+git/jammy) [@pve-kernel](https://github.com/proxmox/pve-kernel)
+=======
+- linux kernel version :5.15.27-1  感谢：[@ubuntu-jammy](https://code.launchpad.net/~ubuntu-kernel/ubuntu/+source/linux/+git/jammy) [@pve-kernel](https://github.com/proxmox/pve-kernel)[@fabianishere](https://github.com/fabianishere/pve-edge-kernel)
+>>>>>>> 07478bc8ef322ce4f321434fdee688b69cf1c91f
 - 添加ppp拨号组件
 - 添加i225等驱动
 - 开启了 io_uring+zerocopy支持
