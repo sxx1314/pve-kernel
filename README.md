@@ -13,7 +13,7 @@
 
 ## INSTALL
 ```
-git clone https://github.com/sxx1314/pve-kernel
+git clone --depth=1 https://github.com/sxx1314/pve-kernel
 cd pve-kernel
 dpkg -i *.deb
 ```
