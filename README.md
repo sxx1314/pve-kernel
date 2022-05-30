@@ -1,6 +1,6 @@
 # pve-kernel
 
-### edge:kernel 5.18.x
+### 5.18.x:kernel 5.18.x
 ### 5.15.x:kernel 5.15.x 
 ### 5.17.x:kernel 5.17.x
 ## 自用pve-kernel 
