@@ -16,4 +16,5 @@
 git clone --depth=1 https://github.com/sxx1314/pve-kernel
 cd pve-kernel
 dpkg -i *.deb
+#注意最好直接下载Releases 解压安装，以后可能不会再把deb直接放在仓库里，因为会导致仓库容量暴增，除非我做仓库瘦身。
 ```
